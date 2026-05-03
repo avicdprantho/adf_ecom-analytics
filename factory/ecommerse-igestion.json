@@ -1,0 +1,15 @@
+{
+	"name": "ecommerse-igestion",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ed5046f-973e-4215-900b-2d2dbdbe78fa",
+		"tenantId": "a085950c-4c25-44d5-945a-b852fa44a221"
+	}
+}
